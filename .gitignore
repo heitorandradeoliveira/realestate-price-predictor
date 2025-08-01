@@ -14,3 +14,7 @@
 # Ignorar pastas específicas
 /logs/
 /tmp/
+*.ipynb_checkpoints/
+data/
+__pycache__/
+*.pkl

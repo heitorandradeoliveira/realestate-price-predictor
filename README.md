@@ -112,7 +112,7 @@ pip install -r requirements.txt
    jupyter notebook
    ```
 
-Execute os notebooks em ordem para visualizar todo o pipeline de NLP.
+Execute os notebooks em ordem para visualizar todo o pipeline.
 
 ---
 
